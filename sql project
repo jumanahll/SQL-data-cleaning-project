@@ -1,0 +1,11 @@
+sql-data-cleaning-project/
+├─ data/
+│  └─ sample_customers.csv
+├─ sql/
+│  ├─ 01_extract.sql
+│  ├─ 02_cleaning_steps.sql
+│  └─ 03_load_final_table.sql
+├─ images/
+│  └─ cleaned_preview.png
+├─ README.md
+└─ .gitignore
